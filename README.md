@@ -1,6 +1,6 @@
 ### Maddux
 
-Primarily a web developer with interests including, but certainly not limited to:
+Primarily a web developer with interests including:
 
 - .NET
 - Linux/NixOS
@@ -8,3 +8,5 @@ Primarily a web developer with interests including, but certainly not limited to
 - Go
 - Docker
 - HATEOAS
+
+... And plenty more. Exploring it all here, as I find the time.
